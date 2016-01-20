@@ -1,2 +1,0 @@
-# Nettri
-Net - Tri
